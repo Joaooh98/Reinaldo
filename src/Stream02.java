@@ -12,12 +12,6 @@ import java.util.List;
  * 
  *  Filtros primeiros
  * 
- *  Operadores Finais
- *  Count
- *  min e max
- *  Collet toList
- *  Collet GroupingBy
- *  Collect joining
  * 
  */
 public class Stream02 {
