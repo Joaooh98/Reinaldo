@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
  *  Collect joining: trabalha somente com strings, é útil quando você deseja obter uma representação concatenada dos elementos da stream
  *  
  */
-public class Stream03 {
+public class A3Stream {
     public static void main(String[] args) {
         List<Integer> lista = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 2, 3, 4, 8, 6, 7);
         List<String> nomes = Arrays.asList("Diogo", "alex", "fernando", "eloi");

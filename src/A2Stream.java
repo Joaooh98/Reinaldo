@@ -14,7 +14,7 @@ import java.util.List;
  * 
  * 
  */
-public class Stream02 {
+public class A2Stream {
     public static void main(String[] args) {
         List<Integer> lista = Arrays.asList(1, 2, 3, 4, 4, 5, 2, 6, 7, 9);
         System.out.println("\n com For");

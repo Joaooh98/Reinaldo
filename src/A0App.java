@@ -1,4 +1,4 @@
-public class App {
+public class A0App {
     public static void main(String[] args) throws Exception {
         
         // era dessa forma no ja 7

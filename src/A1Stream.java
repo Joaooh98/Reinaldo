@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class Stream {
+public class A1Stream {
     public static void main(String[] args) {
           // tipo   referenceArrays  
         List<Integer> asList = Arrays.asList(1,2,3,4);
