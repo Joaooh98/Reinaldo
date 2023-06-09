@@ -1,0 +1,22 @@
+01. Encontre o número de palavras em uma lista que têm mais de cinco letras.
+
+02. Converta uma lista de strings em uma lista de inteiros, onde cada elemento é o comprimento da string correspondente.
+
+03. Dado uma lista de números inteiros, filtre os números pares e retorne a soma deles.
+
+04. Dado uma lista de strings, encontre a string de maior comprimento.
+
+05. Dado uma lista de objetos, filtre os objetos que atendem a um determinado critério e retorne uma lista com apenas um atributo específico desses objetos.
+
+06. Dado uma lista de números inteiros, retorne a soma dos quadrados dos números distintos.
+
+07. Dado uma lista de strings, ordene-as em ordem alfabética inversa.
+
+08. Dado uma lista de objetos, agrupe-os de acordo com um determinado critério e retorne um mapa onde a chave é o critério de agrupamento e o valor é uma lista de objetos correspondentes.
+
+09. Dado uma lista de números inteiros, retorne uma lista contendo apenas os números primos.
+
+10. Dado uma lista de strings, verifique se todas as strings têm mais de três letras.
+
+
+Métodos disponíveis na classe Stream, como filter, map, reduce, sorted e collect, para resolver cada desafio.
